@@ -1,0 +1,27 @@
+figure {
+    margin: 15px 0;
+  }
+
+  figcaption {
+    text-align: center;
+    font-size: 12px;
+  }
+
+  .grayscale {
+    filter: grayscale(0);
+  }
+
+  .grayscale:hover {
+    filter: grayscale(50%)
+  }
+
+  .jumbotron{ 
+    background: #ffcaea;
+  } 
+  .palette-baby{ 
+    height: 25px;
+    margin: 10px -10px; 
+  }
+  .x-small{
+      font-size: 8px;
+  }
